@@ -1,6 +1,6 @@
 # ResistorDecade
 
-Das Originalprojekt ist hier zu finden: [https://www.dekimo.com/resistor-decade/]()
+Das Originalprojekt ist hier zu finden: https://www.dekimo.com/resistor-decade/
 
 Das Projekt ist veröffentlicht unter der Lizenz: [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
